@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         button2.setEnabled(true);
         textview.setText("Button 2 enabled");
         abcd.setBackgroundColor(Color.DKGRAY);
+        // hiii sukesh
+
     }
     public void press2(View v)
     {
