@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
         button2.setEnabled(true);
         textview.setText("Button 2 enabled");
         abcd.setBackgroundColor(Color.DKGRAY);
-        // hiii sukesh
 
     }
     public void press2(View v)
@@ -48,12 +47,5 @@ public class MainActivity extends AppCompatActivity {
         button2.setEnabled(false);
         textview.setText("Button 1 enabled");
         abcd.setBackgroundColor(Color.GRAY);
-
-//        button1.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                button1.setBackgroundColor(Color.BLACK);
-//            }
-//        });
     }
 }
